@@ -1,5 +1,4 @@
-Hi, my name is Javier and I like to produce code that can be used to solve or explore questions
-in mathematics, physics, and biology.
+Hi, my name is Javier, and I enjoy working on problems at the intersection between medicine, mathematics, and physics.
 
 <!---
 JRR3/JRR3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
